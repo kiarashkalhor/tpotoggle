@@ -1,0 +1,4 @@
+# Default messages for teleport protection toggling
+messages:
+  tpo_on: "Teleport protection enabled!"
+  tpo_off: "Teleport protection disabled!"
